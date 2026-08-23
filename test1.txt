@@ -1,1 +1,2 @@
 creates text1.text file
+changed in github now i go to update the vs code using (git pull)
